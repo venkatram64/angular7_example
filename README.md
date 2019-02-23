@@ -25,3 +25,24 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+step 1: npm install -g @angular/cli
+
+step 2: ng new ng7
+
+step 3: ng serve -o
+
+step 4: ng generate component nav
+
+step 5: ng g s data
+
+step 6: ng build
+
+step 7: ng build --prod
+
+step 8: npm install -g http-server
+
+cd dist/ng7
+
+step 8: http-server -o
