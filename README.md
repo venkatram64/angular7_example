@@ -46,3 +46,18 @@ step 8: npm install -g http-server
 cd dist/ng7
 
 step 8: http-server -o
+
+
+git commands:
+
+echo "# angular7_example" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/venkatram64/angular7_example.git
+git push -u origin master
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/venkatram64/angular7_example.git
+git push -u origin master
